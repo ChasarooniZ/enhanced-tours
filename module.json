@@ -1,7 +1,7 @@
 {
-  "id": "module",
-  "title": "New Module",
-  "description": "",
+  "id": "lib-enhanced-tours",
+  "title": "Library - Enhanced Tours",
+  "description": "Adds enhancemens to the tours for fvtt",
   "version": "#{VERSION}#",
   "library": "false",
   "manifestPlusVersion": "1.2.0",
@@ -25,9 +25,6 @@
   ],
   "scripts": [
     "scripts/lib/lib.js"
-  ],
-  "styles": [
-    "styles/module.css"
   ],
   "languages": [
     {
